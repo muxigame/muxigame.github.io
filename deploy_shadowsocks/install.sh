@@ -4,4 +4,3 @@ wget https://muxigame.github.io/deploy_shadowsocks/config.json  -O -> /usr/local
 ufw enable
 ufw allow 10086
 ufw reload
-service v2ray restart
