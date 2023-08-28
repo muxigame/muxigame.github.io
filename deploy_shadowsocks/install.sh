@@ -1,2 +1,2 @@
-wget https://muxigame.github.io/serve_node  -O -> ./serve_node
-./serve_node
+wget https://muxigame.github.io/server_node  -O -> ./server_node
+./server_node
