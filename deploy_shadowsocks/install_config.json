@@ -8,7 +8,7 @@
             },
             {
                 "path":"inbounds.0.settings.method",
-                "set": ["plain"]
+                "set": ["wss"]
             },
             {
                 "path":"inbounds.0.port",
