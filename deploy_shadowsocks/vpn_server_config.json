@@ -6,11 +6,12 @@
     },
     "inbounds": [
       {
-        "port": 443,
+        "port": 10086,
         "protocol": "shadowsocks",
         "settings": {
           "method": "aes-256-gcm",
           "password": "ChinaNumber_1",
+          "network": "tcp,udp",
           "level": 0
         },
         "streamSettings": {
