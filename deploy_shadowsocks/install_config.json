@@ -12,10 +12,7 @@
             },
             {
                 "path":"inbounds.0.port",
-                "range": {
-                    "max": 65535,
-                    "min": 1000
-                }
+                "set": [ "443" ]
             }
         ]
     },
