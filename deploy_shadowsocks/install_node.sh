@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-apt-get udpate
+apt-get update
 apt-get install -y unzip
 apt-get install -y curl
 bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
