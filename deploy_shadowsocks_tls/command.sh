@@ -1,1 +1,1 @@
-bash <(curl -L https://muxigame.github.io/deploy_shadowsocks/install.sh)
+bash <(curl -L https://muxigame.github.io/deploy_shadowsocks_tls/install.sh)
